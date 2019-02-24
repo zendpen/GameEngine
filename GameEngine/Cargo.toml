@@ -1,0 +1,7 @@
+[package]
+name = "GameEngine"
+version = "0.1.0"
+authors = ["zendpen <jacobzzxy@gmail.com>"]
+edition = "2018"
+
+[dependencies]
