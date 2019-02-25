@@ -12,3 +12,5 @@ Goal:
 	be an MMORPG.
 
 1. Setup triangle example with multiple classes in rust. 
+2. Set up camera and textures. 
+3. Set up obj / other file loading. 
