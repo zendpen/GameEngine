@@ -1,0 +1,12 @@
+prefix=/home/spyro/Documents/github/GameEngine/game_engine/target/debug/build/shaderc-6cba4d0b958f4a9a/out
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: SPIRV-Tools
+Description: Tools for SPIR-V
+Version: 2019.2.0
+URL: https://github.com/KhronosGroup/SPIRV-Tools
+
+Libs: -L${libdir} -lSPIRV-Tools-shared
+Cflags: -I${includedir}

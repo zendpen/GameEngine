@@ -1,0 +1,4 @@
+/home/spyro/.cargo/registry/src/github.com-1ecc6299db9ec823/shaderc-0.3.16/build/glslang/glslang/MachineIndependent/intermOut.cpp: In function ‘void glslang::OutputDouble(TInfoSink&, double, glslang::TOutputTraverser::EExtraOutput)’:
+/home/spyro/.cargo/registry/src/github.com-1ecc6299db9ec823/shaderc-0.3.16/build/glslang/glslang/MachineIndependent/intermOut.cpp:1161:63: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+             long long b = *reinterpret_cast<long long*>(&value);
+                                                               ^

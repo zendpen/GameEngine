@@ -1,0 +1,1 @@
+{"rustc":11779505878581416876,"features":"[]","target":16566864153830155822,"profile":11870183705523825133,"path":12836513389375951066,"deps":[["vulkano v0.11.1","vulkano",16217317440589001129],["winit v0.18.1","winit",5532529509911711136]],"local":[{"Precalculated":"0.11.1"}],"rustflags":[],"edition":"Edition2015"}

@@ -1,0 +1,1 @@
+{"rustc":11779505878581416876,"features":"[\"build-native-shaderc\", \"default\"]","target":4944179213620976468,"profile":11870183705523825133,"path":4846744903550848389,"deps":[["cmake v0.1.35","cmake",11186946782588216240]],"local":[{"Precalculated":"0.3.16"}],"rustflags":[],"edition":"Edition2015"}

@@ -10,3 +10,5 @@ Goal:
 	for three games, two of which are going to be stories of the hero characters. The
 	third game will be the crux of the engines full capabilities. This game is set to
 	be an MMORPG.
+
+1. Setup triangle example with multiple classes in rust. 

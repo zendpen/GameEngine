@@ -1,0 +1,1 @@
+{"rustc":11779505878581416876,"features":"[]","target":9904312599328464948,"profile":15605579348808463679,"path":1036222786711178230,"deps":[["vulkano v0.11.1","vulkano",16217317440589001129]],"local":[{"MtimeBased":[[1551119271,498696536],".fingerprint/game_engine-fb8b384ff1e0991f/dep-bin-game_engine-fb8b384ff1e0991f"]}],"rustflags":[],"edition":"Edition2018"}

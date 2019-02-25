@@ -1,0 +1,1 @@
+{"rustc":11779505878581416876,"features":"[\"build-native-shaderc\", \"default\"]","target":9891283879428393620,"profile":11870183705523825133,"path":10469612209646320179,"deps":[["libc v0.2.49","libc",15896379031995179508]],"local":[{"Precalculated":"0.3.16"}],"rustflags":[],"edition":"Edition2015"}
