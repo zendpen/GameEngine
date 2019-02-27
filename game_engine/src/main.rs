@@ -10,8 +10,10 @@ extern crate winit;
 extern crate vulkano_win;
 
 mod game_engine_setup;
+mod shaders;
 
 fn main() {
     println!("Hello, world!");
     game_engine_setup::setup();
+    shaders::create_shaders();
 }
